@@ -1,0 +1,36 @@
+.button {
+  background-color: blue; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  width: 200px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-input {
+  width: 200px;
+}
+
+.tweet {
+
+}
+
+.tweet__user {
+  font-family: "Bitstream Vera Sans Mono", "DejaVu Sans Mono", Monaco, monospace;
+}
+
+.header {
+  background-color: blue;
+  color: white;
+  padding: 50px;
+  height: 100px;
+}
