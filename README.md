@@ -1,3 +1,17 @@
+# How to run
+
+You'll need node and npm installed
+
+All required packages are already in the `package.json` file
+
+To setup, run `npm i` in the directory
+
+Run `npm run build` to build the site (remember to disable your browser's cache or you won't see changes appear!)
+
+Run `node server.js` to start the server which will host the site, you can access the site at `http://localhost:8080`
+
+# BASIC INFO FROM create-react-app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
